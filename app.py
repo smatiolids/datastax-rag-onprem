@@ -310,6 +310,7 @@ except:
 # DataStax logo
 with st.sidebar:
     st.image('./assets/datastax-logo-reverse_transparent-background.png')
+    st.image('./assets/magalu-cloud-logo.png')
     st.text('')
 
 # Logout button
