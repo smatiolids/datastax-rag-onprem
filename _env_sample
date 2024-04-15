@@ -1,0 +1,5 @@
+MODE="dse"
+DSE_NODES="127.0.0.1"
+DSE_USER=""
+DSE_PASS=""
+KEYSPACE=""
